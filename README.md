@@ -4,7 +4,7 @@
   * curl
   * tar
   * gzip
-  * awk
+  * gawk
   * sed
   * jq
   * libxml2-utils
