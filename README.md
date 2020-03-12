@@ -1,1 +1,13 @@
 # docker-telegraf-devel
+* Tools
+  * wget
+  * curl
+  * tar
+  * gzip
+  * awk
+  * sed
+  * jq
+  * libxml2-utils
+  * vim
+  * gnupg
+  * openssh-client
